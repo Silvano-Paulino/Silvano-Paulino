@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Silvano Paulino 👋
 
-- 🔭 Hoje trabalho como FrontEnd
-- 🌱 Estudando Reactjs
+- 🔭 Desenvolvedor frontEnd
+- 🌱 Actaulmente estudando Reactjs
 - 😄 Pronome: ele/dele
 
 <div style="display: inline_block"><br>
