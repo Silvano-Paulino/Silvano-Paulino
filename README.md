@@ -1,8 +1,8 @@
-## Olá! Eu sou o Silvano Paulino 👋
+## Hi! My name is Silvano Paulino 👋
 
-- 🔭 Desenvolvedor Web
-- 🌱 Actaulmente estudando Reactjs
-- 😄 Pronome: ele/dele
+- 🔭 I´m web Developper
+- 🌱 I’m currently studdying Reactjs
+- 😄 Pronouns: He/Him
 
 ![silvano-paulino GitHub stats](https://github-readme-stats.vercel.app/api?username=silvano-paulino&show_icons=true&theme=radical)
 
