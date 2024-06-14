@@ -1,7 +1,7 @@
 ## Hi! My name is Silvano Paulino 👋
 
 - 🔭 I´m web Developper
-- 🌱 I’m currently studdying Reactjs
+- 🌱 I’m currently studdying Golang
 - 😄 Pronouns: He/Him
 
 ![silvano-paulino GitHub stats](https://github-readme-stats.vercel.app/api?username=silvano-paulino&show_icons=true&theme=radical)
