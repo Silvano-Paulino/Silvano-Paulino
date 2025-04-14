@@ -1,18 +1,18 @@
-## Hi! My name is Silvano Paulino 👋
+## Hi! I'm Silvano Paulino 👋
 
-- 🔭 I´m web Developper
-- 🌱 I’m currently studdying Golang
-- 😄 Pronouns: He/Him
+A passionate programmer and technology enthusiast. Besides coding, I also love football.
+
+My programming journey started in high school, where I discovered my passion for creating and solving problems with technology. Since then, I've been continuously learning and improving my skills.
+
+Today, I have experience in all stages of software development, gained through years of dedication and hands-on practice. However, I believe that learning never stops. Technology evolves constantly, and I strive to grow and adapt alongside it.
+
+I am an eternal learner, always eager to explore new challenges and opportunities. Let’s connect and share ideas! 🚀
+
+✨ "Technology is a tool, but passion and continuous learning are what truly make us better." ✨
 
 ![silvano-paulino GitHub stats](https://github-readme-stats.vercel.app/api?username=silvano-paulino&show_icons=true&theme=radical)
 
-<div style="display: inline_block;"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-</div>
-
+## 🌐 Social Media
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/silvano-paulino/](https://www.linkedin.com/in/silvano-paulino-a877b3284/))
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)]([https://facebook.com/silvano-paulino](https://www.facebook.com/silvano.paulino.37/))
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)]([https://instagram.com/_silvanopaulino](https://www.instagram.com/_silvanopaulino/))
