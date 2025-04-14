@@ -13,6 +13,6 @@ I am an eternal learner, always eager to explore new challenges and opportunitie
 ![silvano-paulino GitHub stats](https://github-readme-stats.vercel.app/api?username=silvano-paulino&show_icons=true&theme=radical)
 
 ## 🌐 Social Media
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/silvano-paulino/](https://www.linkedin.com/in/silvano-paulino-a877b3284/))
-[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)]([https://facebook.com/silvano-paulino](https://www.facebook.com/silvano.paulino.37/))
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)]([https://instagram.com/_silvanopaulino](https://www.instagram.com/_silvanopaulino/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/silvano-paulino-a877b3284/)
+[![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/silvano.paulino.37/)
+[![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram)](https://instagram.com/_silvanopaulino)
